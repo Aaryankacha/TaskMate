@@ -45,11 +45,7 @@ I wanted to build something **practical**, **fun**, and **usable in the real wor
 This project taught me **Flutter**, **Firebase**, **real-time chat**, **file uploads**, and **UI/UX design**.
 It’s not just code – it’s my journey from “Hello World” to **my first full-featured app**.
 
----
 
-## 📸 Sneak Peek
-
-*(Insert screenshots here)*
 
 ---
 
